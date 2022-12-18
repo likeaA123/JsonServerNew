@@ -83,12 +83,6 @@
 			"isToPage": false,
 			"plan":"A",
 			"region":""
-		},
-		"fifteen": {
-			"url": "",
-			"isToPage": false,
-			"plan":"A",
-			"region":""
 		}
 	}
 }
