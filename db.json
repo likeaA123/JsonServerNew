@@ -4,79 +4,91 @@
 			"url": "",
 			"isToPage": false,
       "plan":"A",
-      "region":"INR",
+      "region":"INR"
 		},
 		"two": {
 			"url": "",
 			"isToPage": false,
       "plan":"A",
-      "region":"PHP",
+      "region":"PHP"
 		},
 		"three": {
 			"url": "",
 			"isToPage": false,
       "plan":"A",
-      "region":"",
+      "region":""
 		},
 		"four": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"five": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"six": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"seven": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"eight": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"nine": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"ten": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"eleven": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"twelve": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"thirteen": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"fourteen": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		},
 		"fifteen": {
 			"url": "",
 			"isToPage": false,
-      "plan":"A"
+      "plan":"A",
+      "region":""
 		}
 	}
 }
