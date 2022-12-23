@@ -1,10 +1,10 @@
 {
 	"AllNum": {
 		"one": {
-			"url": "https://m.n8.vip/?code=anwu",
-			"isToPage": true,
+			"url": "",
+			"isToPage": false,
 			"plan":"A",
-			"region":"INR"
+			"region":""
 		},
 		"two": {
 			"url": "",
