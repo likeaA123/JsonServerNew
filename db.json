@@ -25,10 +25,10 @@
 			"region":""
 		},
 		"five": {
-			"url": "",
-			"isToPage": false,
+			"url": "https://m.6d.live/?code=AAD3A770",
+			"isToPage": true,
 			"plan":"A",
-			"region":""
+			"region":"PHP"
 		},
 		"six": {
 			"url": "",
